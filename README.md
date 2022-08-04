@@ -1,2 +1,3 @@
-# SnowJellyBeans
-A collection of Snowflake UDF/UDTFs for parsing unstructured data
+# Autogluon on Snowflake
+A demonstration of using AutoML (AutoGluon) generated models natively in Snowflake
+
