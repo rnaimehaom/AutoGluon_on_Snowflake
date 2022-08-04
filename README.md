@@ -43,10 +43,12 @@ We use AutoGluon to develop a series of ML Models that are derived from various 
 ### Execution
 
 The following leaderboard informs the various models that were derived
-by AutoGluon as part of its training
+by AutoGluon as part of its training. Notebook: [1_2_train_and_stage_autogluon_model](../src/main/notebook/1_2_train_and_stage_autogluon_model.ipynb)
+
 ![](doc/images/leaderboard.jpg)
 
-Infering the class, is pretty much like running any other UDF call.
+Infering the class, is pretty much like running any other UDF call. Notebook: [2_1_define_udf_and_predict](../src/main/notebook/2_1_define_udf_and_predict.ipynb)
+
 ![](doc/images/udf_inference.jpg)
 
 ## Documentations
