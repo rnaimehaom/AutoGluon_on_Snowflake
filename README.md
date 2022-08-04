@@ -40,6 +40,15 @@ We use AutoGluon to develop a series of ML Models that are derived from various 
 3. An Python UDF is defined, which uses the AutoGluon library and the ml-models.
 4. Inference is done using the UDF.
 
+### Execution
+
+The following leaderboard informs the various models that were derived
+by AutoGluon as part of its training
+![](doc/images/leaderboard.jpg)
+
+Infering the class, is pretty much like running any other UDF call.
+![](doc/images/udf_inference.jpg)
+
 ## Documentations
 
 - [deployment](./doc/deployment.md)
