@@ -44,7 +44,7 @@ To help the user understand, I have broken down these steps into a series of not
 |-------------|------------|-------------|----------|
 | 1.0 | Setup | Involves creating a database and other objects specifically used for this demonstration. (Optional) | [1_0_setup](../src/main/notebook/1_0_setup.ipynb) |
 | 1.1.1 | Stage library | Involves downloading 3rd party libraries and uploading to an internal stage | [1_1_1_stage_library](../src/main/notebook/1_1_1_stage_library.ipynb) |
-| 1.1.2 | Stage data | Involves preparing the data and doing some pre-liminary feature engineering | [1_1_2_stage_data](../src/main/notebook/1_1_2_stage_data.ipynb | |
+| 1.1.2 | Stage data | Involves preparing the data and doing some pre-liminary feature engineering | [1_1_2_stage_data](../src/main/notebook/1_1_2_stage_data.ipynb) | |
 | 1.2 | Train and Stage AutoGluon models | Use AutoGluon to train on the models and derive the best models to be used for predictions. We then package and stage the models for future uses | [1_2_train_and_stage_autogluon_model](../src/main/notebook/1_2_train_and_stage_autogluon_model.ipynb) |
 
 ---
