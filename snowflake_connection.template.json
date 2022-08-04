@@ -1,0 +1,12 @@
+{
+  "account": "XXXXX",
+  "account_id": "AAA9999",
+  "user": "XXXX",
+  "password": "XXXX",
+  
+  "warehouse": "lab_wh: Refer to 0_0_custom_role_setup documentation ",
+  "role":"dev_blogger: Refer to 0_0_custom_role_setup documentation",
+  
+  "database": "snowflake_sample_data",
+  "schema": "tpch_sf1"
+}
